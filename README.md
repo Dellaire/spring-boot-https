@@ -1,0 +1,1 @@
+This is a sandbox project for getting used to HTTPS via Spring Boot.
