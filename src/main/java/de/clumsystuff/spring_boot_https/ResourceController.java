@@ -11,6 +11,6 @@ public class ResourceController {
 	@GetMapping
 	public String getResource() {
 		
-		return "This was sent encrypted!";
+		return "This was sent via HTTPS!";
 	}
 }
