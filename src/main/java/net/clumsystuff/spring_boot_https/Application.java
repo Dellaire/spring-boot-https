@@ -1,4 +1,4 @@
-package de.clumsystuff.spring_boot_https;
+package net.clumsystuff.spring_boot_https;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

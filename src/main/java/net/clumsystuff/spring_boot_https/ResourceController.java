@@ -1,4 +1,4 @@
-package de.clumsystuff.spring_boot_https;
+package net.clumsystuff.spring_boot_https;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
